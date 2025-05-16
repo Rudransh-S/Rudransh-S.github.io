@@ -1,0 +1,24 @@
+---
+title: "Rudransh Singh"
+about:
+    template: trestles
+    image: Profilephoto.jpg
+    links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/rudransh-singh-4b0549315/
+    - icon: github
+      text: Github
+      href: https://github.com/Rudransh-S
+---
+
+Hi, I am Rudransh Singh, an undergraduate in Production 
+and Industrial Engineering at the Indian Institute of Technology (IIT) Delhi. I am a member 
+of the Robotics Club at IIT Delhi. I am deeply interested in Technology and always excited to 
+learn something new.
+
+## Education
+
+**IIT Delhi** | Delhi, India
+
+B.Tech in Production & Industrial Engineering | July 2024 - Present
