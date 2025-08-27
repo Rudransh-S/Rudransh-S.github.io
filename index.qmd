@@ -2,7 +2,7 @@
 title: "Rudransh Singh"
 about:
     template: trestles
-    image: Profilephoto.jpg
+    image: Profilephoto1.jpg
     links:
     - icon: linkedin
       text: Linkedin

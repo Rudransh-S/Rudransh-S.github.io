@@ -12,5 +12,12 @@
     "title": "Rudransh Singh",
     "section": "Education",
     "text": "Education\nIIT Delhi | Delhi, India\nB.Tech in Production & Industrial Engineering | July 2024 - Present"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "How to update the querto page",
+    "section": "",
+    "text": "How to update the querto page\nTo run preview: quarto preview project.qmd"
   }
 ]
